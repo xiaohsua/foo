@@ -1,0 +1,15 @@
+#+TITLE: Jade Model
+#+AUTHOR: Ben-PJ.Xu
+* Developing Evaluation Model
+  1. determine driver(s) for each item
+  2. determine the factor(s) of driver(s) for each item
+  3. determine the impact of change in assumption on projection of driver(s)
+  4. projection of each item based on the factor(s) and amount of new driver(s)
+  5. tuning the model based on sensitivity test 
+* Questions
+  1. How is the non-unit reserve calculated?
+  2. What is unit deduction?
+* Definition and Abbreviation
+  - PUP :: where a policy stops paying premiums
+  - PTE :: where a policy elects to extend the term of the policy beyond
+    its expected/original maturity date
