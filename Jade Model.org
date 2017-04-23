@@ -16,3 +16,11 @@
 * Finding
   - Page 32 in EV review tells how to determine solvency requirement
     under IoM basis
+  - Actuarial Funding :: some unit-linked products have 100% of allocation
+    ratio and charge higher management fee; the PV of more management fee
+    charged would be equal to the initial expense. Though, policyholder
+    would see a 100% of allocation ratio, yet they would not received so
+    much cash due to surrender charge.
+  - types of charge:
+    1. unit deduction
+    2. re-pricing of fund
