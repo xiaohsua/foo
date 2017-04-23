@@ -13,3 +13,6 @@
   - PUP :: where a policy stops paying premiums
   - PTE :: where a policy elects to extend the term of the policy beyond
     its expected/original maturity date
+* Finding
+  - Page 32 in EV review tells how to determine solvency requirement
+    under IoM basis
